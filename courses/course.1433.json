@@ -1,1 +1,15 @@
-{"id":1433,"shortName":"lcl","name":"Introduction to Light, Color, and Life","language":"en","shortDescription":"To share knowledge and issues in the physical properties of light, the accommodation of light in biological phenomena and medical applications, and the dynamic ways that light is experienced through color in everyday life. \n","aboutTheCourse":"This course deals with various topics in light, color, and life, and teaches students certain expertise in the physical properties of light, the accommodation of light in biological phenomena and medical applications, and the dynamic ways that light is experienced through color in everyday life. Through the convergence of diverse knowledge, creative research topics will be explored and interdisciplinary inquiries that show most potential and professionalism will be further studied.","targetAudience":0,"courseSyllabus":"<p><strong>Weeks 1-2 by Prof. YongKeun Park<\/strong><br>Week 1: Physical principle of light<br>Week 2: Application of light<\/p><p><strong>Weeks 3-4 by Prof. Chulhee Choi<\/strong><br>Week 3: Light in life sciences<br>Week 4: Human vision<\/p><p><strong>Weeks 5-6 by Prof. Hyeon-Jeong Suk<\/strong><br>Week 5: Color perception<br>Week 6: Color practice<\/p>","courseFormat":"<p>The class consists of 6 units, and each unit will be one-week workload. Each unit contains several lecture videos, which are between 8 and 12 minutes in length. When a video lecture is over, a quiz session will be followed. For the last two weeks, there will be two creativity assignments in addition.<\/p>","suggestedReadings":"The lectures are designed to be self-contained. Additional reading list can be provided during the lecture.","estimatedClassWorkload":"2-4 hours\/week","recommendedBackground":"No background is required; all are welcome","links":{}}
+{
+    "id": 1433,
+    "shortName": "lcl",
+    "name": "Introduction to Light, Color, and Life",
+    "language": "en",
+    "shortDescription": "To share knowledge and issues in the physical properties of light, the accommodation of light in biological phenomena and medical applications, and the dynamic ways that light is experienced through color in everyday life. \n",
+    "aboutTheCourse": "This course deals with various topics in light, color, and life, and teaches students certain expertise in the physical properties of light, the accommodation of light in biological phenomena and medical applications, and the dynamic ways that light is experienced through color in everyday life. Through the convergence of diverse knowledge, creative research topics will be explored and interdisciplinary inquiries that show most potential and professionalism will be further studied.",
+    "targetAudience": 0,
+    "courseSyllabus": "<p><strong>Weeks 1-2 by Prof. YongKeun Park<\/strong><br>Week 1: Physical principle of light<br>Week 2: Application of light<\/p><p><strong>Weeks 3-4 by Prof. Chulhee Choi<\/strong><br>Week 3: Light in life sciences<br>Week 4: Human vision<\/p><p><strong>Weeks 5-6 by Prof. Hyeon-Jeong Suk<\/strong><br>Week 5: Color perception<br>Week 6: Color practice<\/p>",
+    "estimatedClassWorkload": "2-4 hours\/week",
+    "recommendedBackground": "No background is required; all are welcome",
+    "links": {
+
+    }
+}

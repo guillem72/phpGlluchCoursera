@@ -1,1 +1,15 @@
-{"id":19,"shortName":"security","name":"Computer Security","language":"en","shortDescription":"Learn how to design secure systems and write secure code. ","aboutTheCourse":"<p>In this class you will learn how to design secure systems and write secure code. You will learn how to find vulnerabilities in code and how to design software systems that limit the impact of security vulnerabilities. We will focus on principles for building secure systems and give many real world examples. In addition, the course will cover topics such as:<\/p><ul><li>memory safety vulnerabilities<\/li><li>techniques and tools for vulnerability detection and defense<\/li><li>security principles such as sandboxing, isolation and least privilege<\/li><li>mobile platform and application security<\/li><li>basic crypto concepts<\/li><li>web security<\/li><li>network security<\/li><li>malware detection and defense<\/li><\/ul><p>Course homework and labs will help students practice the concepts and techniques learned in class, such as how to find vulnerabilities and how to fix them. The labs and projects are designed to help students practice the principles of secure system design.<\/p>","targetAudience":0,"courseSyllabus":"","courseFormat":"The class will consist of lecture videos, which are broken into small chunks, usually between eight and twelve minutes each. Some of these may contain integrated quiz questions. There will also be standalone quizzes that are not part of video lectures, and programming assignments. There will be approximately two hours worth of video content per week.","suggestedReadings":"","instructor":"Dan Boneh and Dawn Song","estimatedClassWorkload":"5-7 hours\/week","recommendedBackground":"This course is intended for Computer Science students&nbsp;who have some programming background in C and C++.","links":{}}
+{
+    "id": 19,
+    "shortName": "security",
+    "name": "Computer Security",
+    "language": "en",
+    "shortDescription": "Learn how to design secure systems and write secure code. ",
+    "aboutTheCourse": "<p>In this class you will learn how to design secure systems and write secure code. You will learn how to find vulnerabilities in code and how to design software systems that limit the impact of security vulnerabilities. We will focus on principles for building secure systems and give many real world examples. In addition, the course will cover topics such as:<\/p><ul><li>memory safety vulnerabilities<\/li><li>techniques and tools for vulnerability detection and defense<\/li><li>security principles such as sandboxing, isolation and least privilege<\/li><li>mobile platform and application security<\/li><li>basic crypto concepts<\/li><li>web security<\/li><li>network security<\/li><li>malware detection and defense<\/li><\/ul><p>Course homework and labs will help students practice the concepts and techniques learned in class, such as how to find vulnerabilities and how to fix them. The labs and projects are designed to help students practice the principles of secure system design.<\/p>",
+    "targetAudience": 0,
+    "courseSyllabus": "",
+    "estimatedClassWorkload": "5-7 hours\/week",
+    "recommendedBackground": "This course is intended for Computer Science students&nbsp;who have some programming background in C and C++.",
+    "links": {
+
+    }
+}

@@ -1,1 +1,15 @@
-{"id":36,"shortName":"cardiacarrest","name":"Cardiac Arrest, Hypothermia, and Resuscitation Science","language":"en","shortDescription":"This course will explore new breakthroughs in the treatment of patients during cardiac arrest and after successful resuscitation, including new approaches to cardiopulmonary resuscitation (CPR) and post-arrest care.","aboutTheCourse":"This course will explore new breakthroughs in the treatment of patients during cardiac arrest and after successful resuscitation, including new approaches to cardiopulmonary resuscitation (CPR) and post-arrest care. Topics will include: (1) the underlying challenges of cardiac arrest in public health, (2) the important role of chest compressions and ventilations, and new thinking about how to improve these approaches in resuscitation care, (3) the role of defibrillation and the exciting growth of automatic external defibrillation (AED) programs, and (4) the new science of targeted temperature management, also known as therapeutic hypothermia, to improve brain function after circulation is restored. This course is designed for a broad audience including the lay public, emergency medical personnel and other health care providers.","targetAudience":0,"courseSyllabus":"","courseFormat":"","suggestedReadings":"","instructor":"","estimatedClassWorkload":"","recommendedBackground":"","links":{}}
+{
+    "id": 36,
+    "shortName": "cardiacarrest",
+    "name": "Cardiac Arrest, Hypothermia, and Resuscitation Science",
+    "language": "en",
+    "shortDescription": "This course will explore new breakthroughs in the treatment of patients during cardiac arrest and after successful resuscitation, including new approaches to cardiopulmonary resuscitation (CPR) and post-arrest care.",
+    "aboutTheCourse": "This course will explore new breakthroughs in the treatment of patients during cardiac arrest and after successful resuscitation, including new approaches to cardiopulmonary resuscitation (CPR) and post-arrest care. Topics will include: (1) the underlying challenges of cardiac arrest in public health, (2) the important role of chest compressions and ventilations, and new thinking about how to improve these approaches in resuscitation care, (3) the role of defibrillation and the exciting growth of automatic external defibrillation (AED) programs, and (4) the new science of targeted temperature management, also known as therapeutic hypothermia, to improve brain function after circulation is restored. This course is designed for a broad audience including the lay public, emergency medical personnel and other health care providers.",
+    "targetAudience": 0,
+    "courseSyllabus": "",
+    "estimatedClassWorkload": "",
+    "recommendedBackground": "",
+    "links": {
+
+    }
+}

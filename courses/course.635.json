@@ -1,1 +1,15 @@
-{"id":635,"shortName":"staticsofobjects","name":"Structure Standing Still: The Statics of Everyday Objects","language":"en","shortDescription":"The Statics of Everyday Objects is a course about how structures react to forces exerted on them while remaining unmoved.","aboutTheCourse":"<p>The Statics of Everyday Objects is a course about the world and\nhow it reacts to the forces acting on it. From suspension bridges holding up\nmiles of roadway, to sky-scraping buildings in the midst hurricanes, to huge\ndams retaining billions of gallons of water in a reservoir, these structures\nmust withstand both the forces of nature and the forces that mankind has\nintended for them. The analytical tools that designers use to create these\nstructures are deceptively simple, and it is the intent of this course to\nexplain things in a clear, straightforward manner.<\/p>","targetAudience":0,"courseSyllabus":"","courseFormat":"This class will consist of lecture videos, which are between 8 and 20 minutes in length. These contain the necessary material and concepts to complete the course activities. There will also be standalone quizzes and a peer evaluated project. In&nbsp;addition&nbsp;to those required assignments, there will be optional, on-your-own problem sets that do not count towards your final grade. These problem sets are meant to reinforce concepts presented in lectures.","suggestedReadings":"","instructor":"","estimatedClassWorkload":"3-8 hours\/week","recommendedBackground":"","links":{}}
+{
+    "id": 635,
+    "shortName": "staticsofobjects",
+    "name": "Structure Standing Still: The Statics of Everyday Objects",
+    "language": "en",
+    "shortDescription": "The Statics of Everyday Objects is a course about how structures react to forces exerted on them while remaining unmoved.",
+    "aboutTheCourse": "<p>The Statics of Everyday Objects is a course about the world and\nhow it reacts to the forces acting on it. From suspension bridges holding up\nmiles of roadway, to sky-scraping buildings in the midst hurricanes, to huge\ndams retaining billions of gallons of water in a reservoir, these structures\nmust withstand both the forces of nature and the forces that mankind has\nintended for them. The analytical tools that designers use to create these\nstructures are deceptively simple, and it is the intent of this course to\nexplain things in a clear, straightforward manner.<\/p>",
+    "targetAudience": 0,
+    "courseSyllabus": "",
+    "estimatedClassWorkload": "3-8 hours\/week",
+    "recommendedBackground": "",
+    "links": {
+
+    }
+}

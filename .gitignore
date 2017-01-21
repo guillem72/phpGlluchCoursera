@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+/.gitignore
+/order.txt
+/coursera.tar.gz
+/cat_descarts.log
+/php-cs-fixer
+/descriptionsANTIC.php
+/categoriesNOSRT2.php
+/coursesANTIC/
+/courses_descriptions/
+/courses/*
+/coursesStandard/*
+/lang_fix/en/*
+/lang_fix/es/*
+/clasifiedInicial/
+/clasified/*
+/standalizeDESCART.php

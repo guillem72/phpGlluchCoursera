@@ -1,1 +1,15 @@
-{"id":96,"shortName":"compmethods","name":"Computational Methods for Data Analysis","language":"en","shortDescription":"<div>Exploratory and objective data analysis methods applied to the physical, engineering, and biological sciences.<\/div>\n<div><\/div>","aboutTheCourse":"Exploratory and objective data analysis methods applied to the physical,\nengineering, and biological sciences. Brief review of statistical methods\nand their computational implementation for studying time series analysis,\nspectral analysis, filtering methods, principal component analysis, orthogonal\nmode decomposition, and image processing and compression.","targetAudience":0,"courseSyllabus":"","courseFormat":"","suggestedReadings":"","instructor":"Nathan Kutz","estimatedClassWorkload":"10-12 hours\/week","recommendedBackground":"Solid background in ODEs and familiarity with PDEs and MATLAB.\n<br>","links":{}}
+{
+    "id": 96,
+    "shortName": "compmethods",
+    "name": "Computational Methods for Data Analysis",
+    "language": "en",
+    "shortDescription": "<div>Exploratory and objective data analysis methods applied to the physical, engineering, and biological sciences.<\/div>\n<div><\/div>",
+    "aboutTheCourse": "Exploratory and objective data analysis methods applied to the physical,\nengineering, and biological sciences. Brief review of statistical methods\nand their computational implementation for studying time series analysis,\nspectral analysis, filtering methods, principal component analysis, orthogonal\nmode decomposition, and image processing and compression.",
+    "targetAudience": 0,
+    "courseSyllabus": "",
+    "estimatedClassWorkload": "10-12 hours\/week",
+    "recommendedBackground": "Solid background in ODEs and familiarity with PDEs and MATLAB.\n<br>",
+    "links": {
+
+    }
+}

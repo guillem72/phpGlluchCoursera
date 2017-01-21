@@ -9,7 +9,7 @@ $well=0;
 $bad=0;
 foreach ($courses->elements as $course )
 {
-	$url="https://api.coursera.org/api/catalog.v1/courses?ids=".$course->id."&fields=language,shortDescription,aboutTheCourse,targetAudience,courseSyllabus,courseFormat,suggestedReadings,instructor,previewLink,estimatedClassWorkload,recommendedBackground";
+	$url="https://api.coursera.org/api/catalog.v1/courses?ids=".$course->id."&fields=language,shortDescription,aboutTheCourse,targetAudience,courseSyllabus,partnerIds,instructorIds,estimatedClassWorkload,recommendedBackground,workload,domainTypes";
 	echo $url."\n";
 	$ch = curl_init();
 	curl_setopt($ch, CURLOPT_URL, $url);
@@ -18,7 +18,7 @@ foreach ($courses->elements as $course )
 	if ($infoj AND $infoj!="")
 	{
 		$info=json_decode($infoj)->elements[0];
-		file_put_contents ( "courses/course.".$course->id.".json" ,json_encode($info));
+		file_put_contents ( "courses/course.".$course->id.".json" ,json_encode($info,JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 		echo "course ".$course->id." (".$info->shortName.") OK\n";
 		//var_dump($info);
 		$well++;
@@ -27,9 +27,9 @@ foreach ($courses->elements as $course )
 	else 
 	{
 		echo $course->id." ERROR\n";
-		file_put_contents(missing.log,$course->id."\n",FILE_APPEND);
+		file_put_contents("missing.log",$course->id."\n",FILE_APPEND);
 		$bad++;
 	}
-echo "\n".$well." well, ".$bad." wrong";
+echo PHP_EOL.$well." well, ".$bad." wrong".PHP_EOL;
 }
 ?>

@@ -1,1 +1,15 @@
-{"id":26,"shortName":"algs4partI","name":"Algorithms, Part I","language":"en","shortDescription":"This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations. Part I covers basic iterable data types, sorting, and searching algorithms.","aboutTheCourse":"An introduction to fundamental data types, algorithms, and data structures,\nwith emphasis on applications and scientific performance analysis of Java\nimplementations. Specific topics covered include: union-find algorithms;\nbasic iterable data types (stack, queues, and bags); sorting algorithms\n(quicksort, mergesort, heapsort) and applications; priority queues; binary\nsearch trees; red-black trees; hash tables; and symbol-table applications.","targetAudience":0,"courseSyllabus":"","courseFormat":"There will be two lectures (60-75 minutes each) each week. The lectures are\ndivided into about 4-6 segments, separated by interactive quiz questions\nfor you to to help you process and understand the&nbsp;material. In addition,\nthere will be a problem set and a programming assignment each week and\nthere will be a final exam.","suggestedReadings":"Although the lectures are designed to be self-contained, students wanting\nto expand their knowledge beyond what we can cover in a 6-week class can\nfind a much more extensive coverage of this topic in our book <a href=\"http:\/\/amzn.to\/13VNJi7\">Algorithms (4th Edition)<\/a>, published by Addison-Wesley Professional.","instructor":"Kevin Wayne and Robert Sedgewick","estimatedClassWorkload":"6-12 hours\/week","recommendedBackground":"All you need is a basic familiarity with programming in Java. This course\nis primarily aimed at first- and second-year undergraduates interested\nin engineering or science, along with high school students and professionals\nwith an interest (and some background) in programming.","links":{}}
+{
+    "id": 26,
+    "shortName": "algs4partI",
+    "name": "Algorithms, Part I",
+    "language": "en",
+    "shortDescription": "This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations. Part I covers basic iterable data types, sorting, and searching algorithms.",
+    "aboutTheCourse": "An introduction to fundamental data types, algorithms, and data structures,\nwith emphasis on applications and scientific performance analysis of Java\nimplementations. Specific topics covered include: union-find algorithms;\nbasic iterable data types (stack, queues, and bags); sorting algorithms\n(quicksort, mergesort, heapsort) and applications; priority queues; binary\nsearch trees; red-black trees; hash tables; and symbol-table applications.",
+    "targetAudience": 0,
+    "courseSyllabus": "",
+    "estimatedClassWorkload": "6-12 hours\/week",
+    "recommendedBackground": "All you need is a basic familiarity with programming in Java. This course\nis primarily aimed at first- and second-year undergraduates interested\nin engineering or science, along with high school students and professionals\nwith an interest (and some background) in programming.",
+    "links": {
+
+    }
+}

@@ -9,7 +9,5 @@
     "courseSyllabus": "<p>This course will provide an introduction to Behavioral Imaging, a new research field which encompasses the measurement, modeling, analysis, and visualization of behaviors from multi-modal sensor data. It is tailored for undergraduate and graduate students who are interested in this emerging field. The course is designed to provide:<\/p><p><\/p><ul><li>A broad introduction to research questions in Behavioral Imaging (BI)<br><\/li><li>An in-depth understanding of the key technologies for BI<br><\/li><li>Hands-on experience in working with relevant sensor data (video, audio, wearable)<br><\/li><li>An overview of the psychology and neuroscience literature relating to behavior from a computational perspective, with a particular focus on disorders of development such as autism and behaviors implicated in chronic health conditions<\/li><\/ul><p><\/p>",
     "estimatedClassWorkload": "5-7 hours\/week",
     "recommendedBackground": "",
-    "links": {
-
-    }
+    "links": {}
 }

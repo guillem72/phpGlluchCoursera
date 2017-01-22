@@ -8,7 +8,5 @@
     "courseSyllabus": "<div>第一周: 信息在计算机中的表示, C++快速入门, 变量和数据类型,输入输出进阶<br><\/div><div>第二周：常量，输入输出进阶，算术运算符，算术表达式<\/div><div>第三周：逻辑表达式表达式与条件分支,运算符的优先级<\/div><div>第四周：循环结构<\/div><div>第五周：一维数组<\/div><div>第六周：二维数组和函数<\/div><div>第七周：字符串(同时期中考试）<\/div><div>第八周: 指针和结构体<\/div><div>第九周: &nbsp;函数和简单递归<\/div><div>第十周：简单的排序和查找<\/div><div>第十一周：用C++STL进行高效的排序和查找<\/div><div>第十二周：期末考试<\/div>",
     "estimatedClassWorkload": "4-5 hours\/week",
     "recommendedBackground": "基本上不需要初中数学以外的先修知识",
-    "links": {
-
-    }
+    "links": {}
 }

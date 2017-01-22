@@ -9,7 +9,5 @@
     "courseSyllabus": "<p>CS101 topics are covered with a mixture of video lecture and active lab work, all in the browser:<\/p>\n<ul>\n<li>The nature of computers and code, what they can and cannot do<\/li>\n<li>How computer hardware works: chips, cpu, memory, disk<\/li>\n<li>Necessary jargon: bits, bytes, megabytes, gigabytes<\/li>\n<li>How software works: what is a program, what is \"running\"<\/li>\n<li>How digital images work<\/li>\n<li>Computer code: loops and logic<\/li>\n<li>Big ideas: abstraction, logic, bugs<\/li>\n<li>How structured data works<\/li>\n<li>How the internet works: ip address, routing, ethernet, wi-fi<\/li>\n<li>Computer security: viruses, trojans, and passwords, oh my!<\/li>\n<li>Analog vs. digital<\/li>\n<li>Digital media, images, sounds, video, compression<\/li>\n<\/ul>",
     "estimatedClassWorkload": "3-5 hours\/week",
     "recommendedBackground": "",
-    "links": {
-
-    }
+    "links": {}
 }

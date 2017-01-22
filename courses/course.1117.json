@@ -9,7 +9,5 @@
     "courseSyllabus": "<span><b>Week 1<\/b>. <i>The Syntax of Propositional Logic<\/i>; <i>Truth Tables<\/i>; <i>Classifying Propositions<\/i><br><br><b>Week 2<\/b>. <i>Relationships between Propositions<\/i>; <i>Tree Proofs<\/i>; <i>Soundness and Completeness<\/i><br><br><b>Weeks 3–5<\/b>. Applications to different reasoning domains (take at least two):<br><ul><li><i>Electronic Engineering<\/i> — simplifying digital circuits<br><\/li><li><i>Philosophy<\/i> — vagueness and borderline cases<br><\/li><li><i>Computer Science<\/i> — databases, resolution and propositional Prolog<br><\/li><li><i>Linguistics<\/i> — meaning: implication vs implicature<\/li><\/ul><\/span>",
     "estimatedClassWorkload": "6-8 hours\/week",
     "recommendedBackground": "This subject presumes no specialist background knowledge. You just need to be able to read and write, and be prepared to think, work and learn new skills—in particular, a willingness to work with symbolic representation and reasoning.",
-    "links": {
-
-    }
+    "links": {}
 }

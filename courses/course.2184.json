@@ -9,7 +9,5 @@
     "courseSyllabus": "<strong>Week 1: Factor Pricing Models in Action<\/strong><br><br><strong>Week 2: Time Series Predictability, Volatility and Bubbles<\/strong><br><br><strong>Week 3: Macroeconomics and Asset Pricing<\/strong><br><br><strong>Week 4: Option Pricing<\/strong><br><br><strong>Week 5: Term Structure Models and Facts<\/strong><br><br><strong>Week 6: Portfolio Theory<\/strong>",
     "estimatedClassWorkload": "10-15 hours\/week",
     "recommendedBackground": "This course uses concepts from finance, undergraduate applied mathematics, advanced undergraduate \/ beginning graduate level economics, and time-series econometrics. You should be able to use single and multivariable calculus, simple differential equations, matrix algebra, and basic statistics. You should be able to program simple simulations in a matrix programming language like Matlab, Octave, R, Python, etc. You should have some background in economics, including utility functions and maximization, and have worked with basic time-series econometrics, such as AR(1) models.<br><br>Students who have not taken Part I of this class should be somewhat familiar with the topics of that class. You should not be scared by simple dz and dt mechanics, the basic consumption model $$ u'(c_t) p_t = \\beta E_t u'(c_{t+1} x_{t+1}) $$ and regression-based factor pricing models such as the CAPM. Watching some of the videos might be a good brush up.&nbsp;",
-    "links": {
-
-    }
+    "links": {}
 }

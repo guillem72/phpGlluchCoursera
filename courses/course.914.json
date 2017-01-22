@@ -9,7 +9,5 @@
     "courseSyllabus": "<ol><\/ol>\n\n<ul><li>Rappel d'électricité et électronique<\/li><li>Systèmes logiques et architecture<\/li><li>Machines binaires<\/li><li>Programmation en C<\/li><li>Entrées-sorties<\/li><li>Applications<\/li><li>Mise au point <\/li><li>Timers, interruptions<\/li><li>Signaux analogiques<\/li><li>Affichages<\/li><li>Communications<\/li><li>\n\nRobotique <\/li><\/ul>",
     "estimatedClassWorkload": "4-7 hours\/week",
     "recommendedBackground": "<p>Quelques notions en électronique générale, systèmes logiques et \nmicroprocesseurs sont utile pour suivre le cours, mais ne sont pas \nindispensable. Un rappel de ces connaissances sera donné durant la \npremière semaine, sans toutefois avoir la prétention de mettre à niveau \nun débutant. <br>Concernant la programmation, le fait d'avoir pratiqué un langage de \nprogrammation facilitera l'apprentissage. Ceux qui n'ont pas cette \nexpérience devront passer davantage de temps et progresseront grâce aux \nexercices qui seront proposés.<br><\/p>",
-    "links": {
-
-    }
+    "links": {}
 }

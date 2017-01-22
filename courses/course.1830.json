@@ -9,7 +9,5 @@
     "courseSyllabus": "<p>第一周 绪论<\/p>\n\n<p>第二周 医学图像基础算法（上）<\/p>\n\n<p>第三周 医学图像基础算法（下）<\/p>\n\n<p>第四章 二值数学形态学 <\/p>\n\n<p>第五章 灰度数学形态学<\/p>\n\n<p>第六周 彩色图像和三维图像&nbsp; <\/p>\n\n<p>第七周 图像分割与形状轮廓模型 <\/p>\n\n第八周 医学图像配准",
     "estimatedClassWorkload": "6-8 hours\/week",
     "recommendedBackground": "本课程面对有一定计算机基础知识和生物医学基础知识的本科三、四年级，以及研究生学生。",
-    "links": {
-
-    }
+    "links": {}
 }

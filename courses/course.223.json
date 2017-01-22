@@ -9,7 +9,5 @@
     "courseSyllabus": "<ul><li>Linear programming, modeling, equivalence of standard forms <\/li><li>Basic solutions, primal and dual feasible basic solutions, pivoting and the simplex method<\/li><li>Termination and complexity of the simplex method <\/li><li>Integer programming, bipartite matching and flows<\/li><li>Models of computation, bit-complexity<\/li><\/ul><br>",
     "estimatedClassWorkload": "3-6 hours\/week",
     "recommendedBackground": "The\n most important prerequisite is familiarity with linear algebra. It will\n be useful to have some programming proficiency in a higher level \nprogramming language such as Java or Python. <br>",
-    "links": {
-
-    }
+    "links": {}
 }

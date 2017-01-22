@@ -9,7 +9,5 @@
     "courseSyllabus": "<ul><li><b>Week One:<\/b> Introduction to Heterogeneous\nComputing, Overview of CUDA C, and Kernel-Based Parallel Programming, with lab tour\nand programming assignment of vector addition in CUDA C.<\/li><li>&nbsp;<b>Week Two:<\/b> Memory Model for Locality, Tiling\nfor Conserving Memory Bandwidth, Handling Boundary Conditions, and Performance\nConsiderations, with&nbsp;programming assignment of simple matrix-matrix multiplication\nin CUDA C.<\/li><li><b>Week Three:<\/b> Parallel Convolution Pattern, with\nprogramming assignment of tiled matrix-matrix multiplication in CUDA C.<\/li><li><b>Week Four:<\/b> Parallel Scan Pattern, with\nprogramming&nbsp;assignment of parallel convolution in CUDA C<b>.<\/b><\/li><li><b>Week Five:<\/b> Parallel Histogram Pattern and\nAtomic Operations, with programming assignment of parallel scan in CUDA C.<\/li><li><b>Week Six:<\/b> Data Transfer and Task\nParallelism, with programming assignment of parallel histogram in CUDA C.<\/li><li><b>Week Seven:<\/b> Introduction to OpenCL,\nIntroduction to C++AMP, Introduction to OpenACC, with programming assignment of\nvector addition using streams in CUDA C.<\/li><li><b>Week Eight: <\/b>Course Summary,\nOther Related Programming Models –Thrust,&nbsp;Bolt, and CUDA FORTRAN, with\nprogramming assignment of simple matrix-matrix multiplication in choice of\nOpenCL, C++AMP, or OpenACC<b>.<\/b><\/li><li><b><\/b><b>Week Nine: <\/b>complete any\nremaining lab assignments, with optional, bonus programming assignments in choice\nof OpenCL, C++AMP, or OpenACC.\n\n<\/li>\n<\/ul>",
     "estimatedClassWorkload": "6-8 hours\/week",
     "recommendedBackground": "Programming experience in C\/C++.",
-    "links": {
-
-    }
+    "links": {}
 }

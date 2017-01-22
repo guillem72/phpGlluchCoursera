@@ -9,7 +9,5 @@
     "courseSyllabus": "<ul><li>The Function<\/li><li>The Field<\/li><li>The Vector<\/li><li>The Vector Space<\/li><li>The Matrix<\/li><li>The Basis<\/li><li>Dimension<\/li><li>Gaussian Elimination<\/li><li>The Inner Product<\/li><li>Orthogonalization<\/li><\/ul>",
     "estimatedClassWorkload": "7-10 hours\/week",
     "recommendedBackground": "You should be an experienced programmer. &nbsp;We use a subset of Python in this course, and we start by covering the relevant features and syntax, so many students find they can get by without prior knowledge of Python.<br><br>You are&nbsp;<i>not<\/i>&nbsp;expected to have any background in linear algebra. &nbsp;However, you should be prepared to read and understand some mathematical proofs.&nbsp;At Brown University, a similar course is taken mostly by sophomore computer science &nbsp;majors who have taken at least two semesters of programming and one semester addressing proof techniques.<br>",
-    "links": {
-
-    }
+    "links": {}
 }

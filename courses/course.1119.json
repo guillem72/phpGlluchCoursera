@@ -9,7 +9,5 @@
     "courseSyllabus": "<b>Week 1<\/b>. <i>The Syntax of Predicate Logic<\/i>; <i>Translations using quantifiers<\/i><br><br><b>Week 2<\/b>. <i>Models for Predicate Logic<\/i>;<i> Classifying propositions and arguments<\/i>; <i>Finite and Infinite Domains<br><\/i><br><b>Week 3<\/b>. <i>Tree Proofs for Predicate Logic<\/i>; <i>Soundness and Completeness<\/i><br><br><b>Week 4<\/b>. <i>Identity<\/i>;<i> Functions<\/i>; <i>Counting <\/i><br><br><b>Weeks 5–8<\/b>. Applications to different reasoning domains (take at least three):<br><ul><li><i>Electronic Engineering<\/i> — simplifying digital circuits with timing<br><\/li><li><i>Philosophy<\/i> — definite descriptions and existence<br><\/li><li><i>Computer Science<\/i> — databases, resolution and Prolog<br><\/li><li><i>Linguistics<\/i> — quantificational scope<\/li><li><i>Mathematics<\/i> — limits, continuity and quantifier alternation<\/li><\/ul>",
     "estimatedClassWorkload": "6-8 hours\/week",
     "recommendedBackground": "This subject presumes a background in propositional logic, such as that provided in <i><a href=\"https:\/\/www.coursera.org\/course\/logic1\" target=\"_blank\">Logic<\/a><\/i><a href=\"https:\/\/www.coursera.org\/course\/logic1\" target=\"_blank\">:<\/a><i><a href=\"https:\/\/www.coursera.org\/course\/logic1\" target=\"_blank\" title=\"Link: https:\/\/www.coursera.org\/course\/logic1\"> Language and Information 1<\/a><\/i>. Beyond that, you need to be able to read and write, and be prepared to think, work and learn new skills—in particular, a willingness to work with symbolic representation and reasoning.",
-    "links": {
-
-    }
+    "links": {}
 }

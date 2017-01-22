@@ -9,7 +9,5 @@
     "courseSyllabus": "Broad outline of the topics covered in the class: <br>\n\n\n\n\n\n\n\n<ol><li>Introduction: What is signal processing, history of the topic, application examples.<\/li><li>Discrete-time (DT) signals: the discrete-time complex exponential, and a computer music synthesis example.<\/li><li>Euclid and Hilbert: Signal processing as geometry, vectors spaces, bases, approximations.<\/li><li>Fourier Analysis: The discrete Fourier transform (DFT) and series (DFS). The discrete-time Fourier transform (DTFT). Examples. The fast Fourier transform algorithm (FFT).<\/li><li>Linear Filters: Linear time-invariant systems, convolution, ideal and realizable filters. Filter design and implementation, examples.<\/li><li>Interpolation and Sampling: Continuous-time (CT) signals, interpolation, sampling. The sampling theorem as orthonormal basis expansion. Processing of CT signals in DT.<\/li><li>Stochastic Signal Processing and Quantization: Stochastic signals, quantization, analog-to-digital (ADC) and digital-to-analog (DAC) conversion.<\/li><li>Image Processing: Introduction to image processing and two-dimensional (2D) Fourier analysis. Filtering and compression. The JPEG compression standard.<\/li><li>Digital Communication Systems: Analog channels and bandwidth\/power constraints. Modulation and demodulation. Transmitter and receiver design. ADSL.<\/li><\/ol>",
     "estimatedClassWorkload": "8-10 hours\/week",
     "recommendedBackground": "Fundamentals of linear algebra and calculus are a must. Familiarity with probability theory and system theory are highly recommended. Familiarity with Matlab (or equivalent) and\/or scientific programming are a plus.",
-    "links": {
-
-    }
+    "links": {}
 }

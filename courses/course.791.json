@@ -9,7 +9,5 @@
     "courseSyllabus": "<p><\/p><ul><li>study designs for comparing\npopulations<br><\/li><li>single sample numerical summary\nmeasures for continuous, binary and time-to-event outcomes<br><\/li><li>visual displays for continuous and\ntime-to-event outcomes<br><\/li><li>the normal (Gaussian) distribution<br><\/li><li>measures of association: mean\ndifferences, risk differences, relative risks, odds ratios and incidence rate\nratios<br><\/li><li>confidence intervals for means,\nmean differences, proportions, relative risks, odds ratios, incidence rates and\nincidence rate ratios<br><\/li><li>hypothesis testing: paired and\ntwo-sample t-tests, the chi-square test, Fisher's exact test, and the log-rank\ntest<br><\/li><li>power and sample size&nbsp; (optional)<br><\/li><\/ul><p><\/p>",
     "estimatedClassWorkload": "7-9 hours\/week",
     "recommendedBackground": "",
-    "links": {
-
-    }
+    "links": {}
 }

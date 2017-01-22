@@ -9,7 +9,5 @@
     "courseSyllabus": "<b>Module 1: &nbsp;&nbsp;<\/b><span>Introduction to evolutionary theory and&nbsp;population genetics: models of growth, selection and mutation<br><\/span><b>Module<\/b><b>&nbsp;2:&nbsp;<\/b>&nbsp; Neutral mutations and genetic drift. Tree reconstruction by parsimony<br><b>Module<\/b><b>&nbsp;3:&nbsp;<\/b>&nbsp;&nbsp;Consensus trees. Distance matrix methods<br><b>Module<\/b><b>&nbsp;4: &nbsp;<\/b>&nbsp;Models of sequence evolution. Likelihood methods<br><b>Module<\/b><b>&nbsp;5:&nbsp;<\/b>&nbsp;&nbsp;Bayesian inference of phylogeny<br><b>Module<\/b><b>&nbsp;6: &nbsp;<\/b>&nbsp;Testing hypotheses in a phylogenetic context<br><br>",
     "estimatedClassWorkload": "7-9 hours\/week",
     "recommendedBackground": "<ul><li>Basic molecular biology (important)<br><\/li><li>Basic bioinformatics (semi important - student should understand the concept of a biological sequence, know what an alignment is and how to construct it, and how to search sequence databases)<\/li><li>Basic mathematics (less important, but student should not be afraid of math - the course has been designed to be accessible also for biology students)<br><\/li><li>Knowledge of UNIX is not required but will be helpful (exercise manuals will introduce the subject gradually, and we will provide links to self-help resources)<\/li><\/ul>",
-    "links": {
-
-    }
+    "links": {}
 }

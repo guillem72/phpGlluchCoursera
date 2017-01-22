@@ -9,7 +9,5 @@
     "courseSyllabus": "<ul><li>Introduction to power electronics<\/li><\/ul>\n<u>I. Converters in Equilibrium<\/u>\n<ul><li>Principles of steady-state converter analysis<\/li><li>Steady-state equivalent circuit modeling, losses, and efficiency<\/li><li>Semiconductor power switch realization<\/li><li>The discontinuous conduction mode<\/li><li>Converter circuits and transformer isolation<\/li><\/ul><u>II. Converter Dynamics and Control<\/u><ul><li>AC equivalent circuit modeling<\/li><li>Converter transfer functions<\/li><li>Controller design<\/li><\/ul>",
     "estimatedClassWorkload": "6-9 hours\/week",
     "recommendedBackground": "Knowledge of circuits and electronics at the level of an undergraduate major in electrical engineering is assumed.",
-    "links": {
-
-    }
+    "links": {}
 }

@@ -9,7 +9,5 @@
     "courseSyllabus": "- The basics of energy and mass flows and exchanges with the environment\n<br>- Working with unit processes and unit process inventory data<br>- Study design: goal definition, system boundaries, and functional units\n<br>- Compiling the data: life-cycle inventory methods (process-based and\ninput-output methods)\n<br>- Understanding impacts: life-cycle impact analysis for land, air, water,\nand health\n<br>- Building a simple LCA model using spreadsheet software<br>- Results interpretation and reporting<br>",
     "estimatedClassWorkload": "5-7 hours\/week",
     "recommendedBackground": "Familiarity with spreadsheet software (Microsoft Excel or OpenOffice Calc), basic\nskills in algebra, matrix operations, and statistics, and some exposure\nto environmental issues related to energy use, air pollution, water pollution, waste\ngeneration, and climate change.<br>",
-    "links": {
-
-    }
+    "links": {}
 }

@@ -9,7 +9,5 @@
     "courseSyllabus": "Large amounts of heterogeneous medical data have become available in various healthcare organizations (payers, providers, pharmaceuticals). Those data could be an enabling resource for deriving insights for improving care delivery and reducing waste. The enormity and complexity of these datasets present great challenges in analyses and subsequent applications to a practical clinical environment. In this course, we introduce the characteristics and related analytic challenges on dealing with clinical data from electronic health records. Many of those insights come from medical informatics community and data mining\/machine learning community. There are three thrusts in this course: Application, Algorithm and System<br>",
     "estimatedClassWorkload": "",
     "recommendedBackground": "",
-    "links": {
-
-    }
+    "links": {}
 }

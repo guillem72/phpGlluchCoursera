@@ -9,7 +9,5 @@
     "courseSyllabus": "<ol><li>Overview: From Cloud to Fog<\/li><li>Overview: From IT to loT<\/li><li>Principles of Edge\/P2P networking<\/li><li>Smart data pricing for new network services<\/li><li>Client side control and configuration<\/li><li>Client-side measurement &amp; Control Signaling<\/li><li>Edge resource pooling and caching<\/li><li>Security and privacy in Fog<\/li><li>Consumer and wearable IoT<\/li><li>Connected cars IoT<\/li><li>Smart grids IoT<\/li><li>Healthcare IoT&nbsp;<\/li><\/ol>",
     "estimatedClassWorkload": "6-10 hours\/week",
     "recommendedBackground": "Basic knowledge of communication networks.",
-    "links": {
-
-    }
+    "links": {}
 }

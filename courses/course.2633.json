@@ -9,7 +9,5 @@
     "courseSyllabus": "<ul><li>Overview of the NIH Common Fund LINCS Program<br><\/li><li>Overview of the <a href=\"http:\/\/lincs-dcic.org\/#\/\" target=\"_blank\" title=\"Link: http:\/\/lincs-dcic.org\/#\/\">BD2K-LINCS Data Coordination and Integration Center<\/a><\/li><li>Overview of the <a href=\"http:\/\/www.lincsproject.org\/centers\/data-and-signature-generating-centers\/\" target=\"_blank\">Data and Signature Generation Centers<\/a> (experiments and data)<br><\/li><li>Metadata and Ontologies<br><\/li><li>Data Normalization<br><\/li><li>Unsupervised Learning Methods: Data Clustering<br><\/li><li>Supervised Learning Methods<br><\/li><li>Enrichment Analyses<\/li><li>Network Analysis and Network Visualization<\/li><li>Cheminformatics<br><\/li><li>Serving data through RESTful APIs and JSON<br><\/li><li>Interactive Data Visualization of LINCS Data<br><\/li><li>Crowdsourcing Projects<\/li><\/ul>",
     "estimatedClassWorkload": "4-5 hours\/week",
     "recommendedBackground": "Basic courses in statistics and molecular biology are useful but not required. Ability to write short scripts in languages such as Python would be useful but not necessary.",
-    "links": {
-
-    }
+    "links": {}
 }

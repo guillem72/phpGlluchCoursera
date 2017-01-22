@@ -9,7 +9,5 @@
     "courseSyllabus": "<p>The anticipated schedule of lectures (subject to changes):<br><\/p><p>Each bullet bellow corresponds to a set of materials that includes approximately 2 hours of video lectures, various links and supplementary materials, plus some on-line, hands-on exercises.<br><\/p>1. Introduction to the school.&nbsp; Software architectures.&nbsp; Introduction to Machine Learning.<br><br><div><div><div>2. Best programming practices.&nbsp; Information retrieval.<br><br>3. Introduction to R.&nbsp; Markov Chain Monte Carlo.<br><br>4. Statistical resampling and inference.<br><br>5. Databases.<br><br>6. Data visualization.<br><br>7. Clustering and classification.<br><br>8. Decision trees and random forests.<br><br>9. Dimensionality reduction.&nbsp; Closing remarks.<br><\/div><\/div><\/div>",
     "estimatedClassWorkload": "20-25 hours\/week",
     "recommendedBackground": "The students should have a solid background in scientific computing and data analysis.&nbsp; The target audience includes upper-level undergraduate and graduate students, postdocs, or other researchers in science and technology fields.&nbsp; Good programming skills in at least one modern computer language (or the ability to quickly learn one) are needed, as well as some knowledge of statistics, and some experience with scientific data analysis.&nbsp; Background knowledge in computer science is a plus.<br>",
-    "links": {
-
-    }
+    "links": {}
 }

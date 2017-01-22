@@ -9,7 +9,5 @@
     "courseSyllabus": "<div><span>The syllabus is optimized to enable students to&nbsp;iterate on their final projects as soon as possible, with technical material in the first half of the class and entrepreneurial considerations&nbsp;in the second half.<br><br><\/span>\n<\/div>\n<ul>\n    <li>Introduction and Quickstart<\/li>\n    <li><span>Tools: VMs, IAAS\/PAAS, Unix Command Line, Text Editors, DCVS<br><\/span>\n    <\/li>\n    <li><span>Frontend: HTML\/CSS\/JS, Wireframing, Market Research<br><\/span>\n    <\/li>\n    <li><span>Backend: SSJS, Databases, Frameworks, Data Pipelines<br><\/span>\n    <\/li>\n    <li><span>APIs: Client-side templating, HTTP, SOA\/REST\/JSON, API as BizDev<br><\/span>\n    <\/li>\n    <li><span>Devops: Testing, Deployment, CI, Monitoring, Performance<br><\/span>\n    <\/li>\n    <li><span>Dev Scaling: DRY, Reading\/Reviewing\/Documenting Code, Parallelizing<br><\/span>\n    <\/li>\n    <li><span>Founding: Conception, Composition, Capitalization<br><\/span>\n    <\/li>\n    <li><span>Business Scaling: Promotion, CAC\/LTV\/Funnel, Regulation, Accounting<br><\/span>\n    <\/li>\n    <li><span>Summary and Demo Week<br><\/span>\n    <\/li>\n<\/ul>",
     "estimatedClassWorkload": "2-20 hours\/week",
     "recommendedBackground": "Familiarity with basic programming at the level of Stanford's <a href=\"http:\/\/www.stanford.edu\/class\/cs106b\/\">CS106B<\/a> is\nrequired. Some exposure to HTML, CSS, and Javascript will also be helpful.",
-    "links": {
-
-    }
+    "links": {}
 }

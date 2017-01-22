@@ -9,7 +9,5 @@
     "courseSyllabus": "Der Kurs \"Sprachtechnologie in den Digital Humanities\" umfasst 6 thematische Module verteilt auf 6 Wochen.<br>\n<strong>Modul 1 – Wege in die digitale Welt <\/strong>       <br>&nbsp; - Einführung<br>&nbsp; - Herausforderungen der Korpusakquisition<br><strong>Modul 2 – Strukturierte und nachhaltige Repräsentation von Korpora<\/strong><br>&nbsp; - XML-Standards zur Textrepräsentation<br>&nbsp; - Textsegmentierung: Automatische Wort- und Satzsegmentierung<br><strong>Modul 3 – Eigenschaften von Korpora und grundlegende Analysemethoden<\/strong><br>&nbsp; - Korpuslinguistische Perspektive und Grundbegriffe<br>&nbsp; - Korpuslinguistische Analysekategorien: Worthäufigkeiten, Kollokationen, N-Gramme<br> &nbsp; - Visualisierung und graphische Darstellung von Texteigenschaften<br><strong>Modul 4 – Automatische Annotation mit computerlinguistischen Werkzeugen<\/strong><br>      &nbsp; - Bestimmung von Wortarten und Grundformen<br>&nbsp; - Erkennung und Klassifikation von Namen aller Art<br>&nbsp; - Syntaktische Analyse<br><strong>Modul 5 – Manuelle Annotation und Validierung<\/strong><br>&nbsp; - Werkzeuge zur Annotation von Korpora<br>&nbsp; - Grundlagen der Annotationsvalidierung<br>&nbsp; - Möglichkeiten und Probleme von Crowd-Sourcing<br><strong>Modul 6 – Herausforderungen der multilingualen Textanalyse<\/strong><br>&nbsp; - Automatische Sprachidentifikation<br>&nbsp; - Automatische Satz- und Wortalignierung",
     "estimatedClassWorkload": "2-3 hours\/week",
     "recommendedBackground": "Sie brauchen keine Programmierkenntnisse.&nbsp;Mit Interesse an der Digitalisierung und Annotation von Texten sind die bestens gerüstet für diesen Kurs.<br><br>",
-    "links": {
-
-    }
+    "links": {}
 }

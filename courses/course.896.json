@@ -9,7 +9,5 @@
     "courseSyllabus": "<p>Week 1:<br>\nMapReduce<br>\nLink Analysis -- PageRank<\/p>\n<p>Week 2:<br>\nLocality-Sensitive Hashing -- Basics + Applications<br>\nDistance Measures<br>\nNearest Neighbors<br>\nFrequent Itemsets<\/p>\n<p>Week 3:<br>\nData Stream Mining<br>\nAnalysis of Large Graphs<\/p>\n<p>Week 4:<br>\nRecommender Systems<br>\nDimensionality Reduction<\/p><p><\/p>\n<p>Week 5:<br>\nClustering<br>\nComputational Advertising<\/p>\n<p>Week 6:<br>\nSupport-Vector Machines<br>\nDecision Trees<br>\nMapReduce Algorithms<\/p>\n<p>Week 7:<br>\nMore About Link Analysis -- &nbsp;Topic-specific PageRank, Link Spam.<br>\nMore About Locality-Sensitive Hashing<\/p>",
     "estimatedClassWorkload": "8-10 hours\/week",
     "recommendedBackground": "A course in database systems &nbsp;is recommended, as is a basic course on algorithms and data structures. &nbsp;You should also understand mathematics up to multivariable calculus and linear algebra.<br>",
-    "links": {
-
-    }
+    "links": {}
 }

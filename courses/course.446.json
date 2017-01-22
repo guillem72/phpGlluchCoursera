@@ -9,7 +9,5 @@
     "courseSyllabus": "<b>Description: <\/b>Ce cours présentera les structures de données les plus classiques comme les  tableaux, listes, piles, files, et arbres pour aller vers les graphes. <br>En parallèle, on découvrira les grands concepts de l'algorithmique à travers des études cas. Nous passerons ainsi en revue les tris, parcours, les arbres de recherche quaternaires<i>, <\/i>les algorithmes gloutons ainsi que les bases de la programmation dynamique.<br><br><br><br>",
     "estimatedClassWorkload": "6-8 hours\/week",
     "recommendedBackground": "Bonne connaissance d'un langage de programmation et des bases de java, les exemples et exercices étant donnés dans ce langage.<br><br>",
-    "links": {
-
-    }
+    "links": {}
 }

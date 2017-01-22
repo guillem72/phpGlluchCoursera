@@ -9,7 +9,5 @@
     "courseSyllabus": "<div>第1周 从C走进C++<\/div><div>第2周 类和对象初探 <\/div><div>第3周 类和对象进阶 <\/div><div>第4周 运算符重载<\/div><div>第5周 继承与派生<\/div><div>第6周 多态与虚函数<\/div><div>第7周 输入输出,文件操作和模板<\/div><div>第8周 标准模板库STL (1)<\/div><div>第9周 标准模板库STL (2)<\/div><div>第10周 枚举算法<\/div><div>第11周 递归算法<\/div><div>第12周 动态规划算法<\/div><div>第13周 深度优先搜索算法<\/div><div>第14周 广度优先搜索算法<br><br><p><b>任务安排（作业及考试）<\/b><\/p><p>考试分为期中考试和期末考试<\/p><p><b>评分方案<\/b><\/p><p>评分按照日常作业的完成情况和期中期末考试的答题情况进行。课程参与（如论坛回答问题等） 5 %，C++作业 20 % ，在POJ在线提交的编程作业 20 %，期中考试（内容为C++语言) 25 %，期末考试（内容为在线提交的编程题)  30 %。<\/p><p>POJ作业在程序自动评测网站发布：<a href=\"http:\/\/cxsjsx.openjudge.cn\/\">http:\/\/cxsjsx.openjudge.cn\/<\/a><\/p><p>课程参与做得特别好的同学，除了获得课程参与部分可得满分，还可以另外获得1-5分总分加分。<br><\/p><\/div>",
     "estimatedClassWorkload": "7-10 hours\/week",
     "recommendedBackground": "先修课程：计算概论",
-    "links": {
-
-    }
+    "links": {}
 }

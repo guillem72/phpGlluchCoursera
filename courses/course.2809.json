@@ -9,7 +9,5 @@
     "courseSyllabus": "<p>第一周&nbsp;&nbsp;&nbsp; 1章 基础知识：算法的基本概念及伪码描述，函数的渐近的界<\/p>\n\n<p>第二周&nbsp;&nbsp;&nbsp; 1章 基础知识：序列求和方法，递推方程求解<\/p>\n\n<p>第三周&nbsp;&nbsp;&nbsp; 2章 分治策略(1)<\/p>\n\n<p>第四周&nbsp;&nbsp;&nbsp; 2章 分治策略(2)<\/p>\n\n<p>第五周&nbsp;&nbsp;&nbsp; 3章 动态规划(1)<\/p>\n\n<p>第六周&nbsp;&nbsp;&nbsp; 3章 动态规划(2)<\/p>\n\n<p>第七周&nbsp;&nbsp;&nbsp; 4章 贪心法(1)<\/p>\n\n<p>第八周&nbsp;&nbsp;&nbsp; 4章 贪心法(2)<\/p>\n\n<p>第九周&nbsp;&nbsp;&nbsp; 5章 回溯与分支限界(1)<\/p>\n\n第十周&nbsp;&nbsp;&nbsp; 5章 回溯与分支限界(2)",
     "estimatedClassWorkload": "4-8 hours\/week",
     "recommendedBackground": "本课程需要一些高等数学的基础知识，如函数极限与积分，也需要了解一些基本的数据结构，如数组、链表、图等，学习中只需要了解相关概念。在课程开始对部分基础知识做了概括的介绍，大家可以根据自己的情况安排学习。",
-    "links": {
-
-    }
+    "links": {}
 }

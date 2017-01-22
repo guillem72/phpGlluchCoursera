@@ -9,7 +9,5 @@
     "courseSyllabus": "Erstes Kapitel: Wissenswertes über Bilder (Darstellung von Bildern, Bildgradient, Merkmalspunkte, Korrespondenzschätzung)<br>Zweites Kapitel: Bildentstehung (Lochkameramodell, Homogene Koordinaten, Euklidische Bewegungen, Perspektivische Projektion mit kalibrierter Kamera, Bild, Ur-Bild und Co-Bild)<br>Drittes Kapitel: Epipolargeometrie (Epipolargleichung, Epipole und Epipolarlinien, 8-Punkt-Algorithmus, 3D-Rekonstruktion, Die Fundamentalmatrix)<br>Viertes Kapitel: Planare Szenen (Planare Epipolargleichung, 4-Punkt-Algorithmus, Kamerakalibrierung)",
     "estimatedClassWorkload": "2-8 hours\/week",
     "recommendedBackground": "Für diesen Kurs benötigen Sie grundlegende mathematische Kenntnisse, vor allem im Bereich der Linearen Algebra. Für die Implementierung der vorgestellten Algorithmen sind Programmierkenntnisse hilfreich.<br>",
-    "links": {
-
-    }
+    "links": {}
 }

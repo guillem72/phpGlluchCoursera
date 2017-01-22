@@ -9,7 +9,5 @@
     "courseSyllabus": "<div>Introduction and Overview&nbsp;<\/div>\n<div>Look: Search, Indexing and Memory<\/div>\n<div>Listen: Streams, Information and Language, Analyzing Sentiment and Intent<\/div>\n<div>Load: Databases and their Evolution, Big data Technology and Trends<br>Programming: Map-Reduce<\/div>\n<div>Learn: Classification, Clustering, and Mining, Information Extraction<\/div>\n<div>Connect: Reasoning: Logic and its Limits, Dealing with Uncertainty<br>Programming: Bayesian Inference for Medical Diagnostics<\/div>\n<div>Predict: Forecasting, Neural Models, Deep Learning, and Research Topics<br>Data Analysis: Regression and&nbsp;Feature Selection<\/div>",
     "estimatedClassWorkload": "3-4 hours\/week",
     "recommendedBackground": "<div>Basic programming, SQL and data structures<\/div>\n<div>Exposure to probability, statistics and matrices<\/div>",
-    "links": {
-
-    }
+    "links": {}
 }

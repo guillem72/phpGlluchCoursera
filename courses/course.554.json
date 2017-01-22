@@ -9,7 +9,5 @@
     "courseSyllabus": "This course is broken into five Modules, each having associated homework\nand a quiz:\n<br>\n<p>Module 1: Background:\n    <br>Background information on electricity, resistors, and circuit diagrams<\/p>\n\n<p>Module 2: Resistive Circuits:\n    <br>Ohm's Law, Kirchhoff's Law, Resistors in series and in parallel, Systematic\n    Solution Methods, Physical applications, and Lab demos<\/p>\n\n<p>Module 3: Reactive Circuits:&nbsp;<br>Capacitors, Inductors, First and Second Order Differential Equations,\n    RC and RL and RLC circuit steady-state and transient response to a DC source, Physical applications, Lab demos<\/p>\n\n<p>Module 4: Frequency Analysis:\n    <br>AC response, Impedance, Transfer functions, Frequency response, Filtering,\n    Applications, Lab demos<\/p>\n\n<p>Module 5:\n    <br>Real and reactive power, power factor, transformers<\/p>\n<br>Each module has a quiz associated with it, where the modules that take\nlonger are assigned more credit in grading. &nbsp;Each week has a homework\nassociated with it that is due at the end of the week.\n<br>",
     "estimatedClassWorkload": "5-7 hours\/week",
     "recommendedBackground": "Completed a first course in calculus, have a working knowledge of matrices\nand linear algebra, complex numbers, been introduced to basic circuit elements\nat the level commonly covered in a college physics course",
-    "links": {
-
-    }
+    "links": {}
 }

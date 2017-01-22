@@ -9,7 +9,5 @@
     "courseSyllabus": "",
     "estimatedClassWorkload": "10-15 hours\/week",
     "recommendedBackground": "To be  successful in the course, a strong background in linear algebra \nis  required.   Familiarity with methods of  ordinary differential \nequations and basic programming structure is also  required.  With this \nbackground, students  should be able to develop the codes necessary for \nthe homework in the  course.<br><br>\nGiven the  computational nature of the course, access to MATLAB (<a href=\"http:\/\/www.mathworks.com\">www.mathworks.com<\/a>) or Octave  (<a href=\"http:\/\/www.gnu.org\/software\/octave\/\">www.gnu.org\/software\/octave<\/a>)\n is essential.  Octave is a free (or by donation)  alternative\n to MATLAB that can also be downloaded and installed via the  web.  \nEither software should suffice for  all the needs of the course, but \nMATLAB is the strongly recommended  alternative. <br>",
-    "links": {
-
-    }
+    "links": {}
 }

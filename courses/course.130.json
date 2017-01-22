@@ -9,7 +9,5 @@
     "courseSyllabus": "Topics covered will include: Computational boolean algebra; logic verification; logic synthesis (2-level and multi-level); technology mapping; timing analysis; ASIC placement and routing.",
     "estimatedClassWorkload": "10-12 hours\/week",
     "recommendedBackground": "<div>Programming experience (C++, Java) and basic knowledge of data structures and algorithms. &nbsp;An understanding of basic digital design: &nbsp;Boolean algebra, Kmaps, gates and flip flops, finite state machine design. &nbsp;Linear algebra and calculus at the level of a junior or senior in engineering. &nbsp;Exposure to basic VLSI at an undergraduate level is nice -- but it’s not necessary. &nbsp;We will keep the course self-contained, but students with some VLSI will be able to skip some background material.<\/div>\n<div><\/div>",
-    "links": {
-
-    }
+    "links": {}
 }

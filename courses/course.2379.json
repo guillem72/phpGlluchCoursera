@@ -1,14 +1,13 @@
 {
     "id": 2379,
     "shortName": "uidesign1",
-    "name": "Introduction to User Interface Design (Part 1)",
+    "name": "Introduction to User Experience Design",
     "language": "en",
-    "shortDescription": "",
-    "aboutTheCourse": "This course is currently under development.",
+    "shortDescription": "Learn basic concepts related to user experience design and interface design.",
+    "aboutTheCourse": "This course explores basic principles of User Experience Design. It takes a human-centered approach where design is at the service of meeting the users' needs.&nbsp; It also proposes that anyone can be a designer because design is a data driven process. Learners are shown the 4 Step Design Cycles (Requirements Gathering, Designing Alternatives, Prototyping and Evaluation).&nbsp; It also presents techniques that will allow the budding designer to develop artifacts that are efficient, effective and satisfying to the user.<br><br>",
+    "targetAudience": 0,
     "courseSyllabus": "<p>This\ncourse is an introduction to the area of Human Computer Interaction.&nbsp; It shows students the first two steps\nin the design cycle of user interface design: requirement gathering and design\nalternatives. Students will be exposed to techniques that lead to better\ndesigns: task analyses, personas and scenarios, etc. &nbsp;<\/p>",
     "estimatedClassWorkload": "4-6 hours\/week",
     "recommendedBackground": "",
-    "links": {
-
-    }
+    "links": {}
 }

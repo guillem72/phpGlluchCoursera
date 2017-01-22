@@ -9,7 +9,5 @@
     "courseSyllabus": "Topics covered include:\n\n<p>\n1. Language modeling.<br>\n2. Hidden Markov models, and tagging problems.<br>\n3. Probabilistic context-free grammars, and the parsing problem.<br>\n4. Statistical approaches to machine translation.<br>\n5. Log-linear models, and their application to NLP problems.<br>\n6. Unsupervised and semi-supervised learning in NLP.<\/p>",
     "estimatedClassWorkload": "8-10 hours\/week",
     "recommendedBackground": "A basic knowledge of probability (e.g., you should be familiar with random variables, independence assumptions, etc.), a basic knowledge of algorithms, and a basic knowledge of calculus (e.g., how to differentiate simple functions).&nbsp;",
-    "links": {
-
-    }
+    "links": {}
 }

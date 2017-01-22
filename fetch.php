@@ -1,4 +1,10 @@
 <?php
+/**
+ * Read courses.json file and retrieve all courses. For each course it makes an API call
+ * and writes a file in courses directory. It takes a while. Console will show every call,
+ * the id of the current retrieved course.
+ * To obtain courses.json, go to https://api.coursera.org/api/catalog.v1/course
+ **/
 //https://api.coursera.org/api/catalog.v1/courses
 $json=file_get_contents("courses.json");
 $courses=json_decode($json);

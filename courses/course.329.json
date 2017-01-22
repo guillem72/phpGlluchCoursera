@@ -9,7 +9,5 @@
     "courseSyllabus": "<p><b>A first look at data<\/b>\n<br>Weeks 1-2: Summary statistics and graphical displays for a single categorical or quantitative variable and for relationships between two variables.<\/p>\n<p><b>Collecting data<\/b>\n<br>Week 2:&nbsp; Sampling.&nbsp; Observational studies and experiments.&nbsp; The effect of confounding and concluding causation.<\/p>\n<p><b>Probability<\/b>\n<br>Week 3:&nbsp; Probability models, the normal distribution, the Law of Large Numbers, the Central Limit Theorem, sampling distributions.<\/p>\n<p><b>Confidence Intervals<\/b>&nbsp;<br>Week 4: Confidence intervals and sample size estimation for proportions and means.<\/p>\n<p><b>Tests of&nbsp;significance<\/b>&nbsp;<br>Week 5: Tests of significance, power and sample size estimation for proportions and means<\/p><p><b>Two samples<\/b><br>Week 6: Tests of significance and confidence intervals for proportions and means in the two sample case.<\/p>\n<p><b>Simple linear regression<\/b>\n<br>Week 7: Method of least squares, evaluating model fit, the effects of outliers and influential observations.<\/p>\n<p><b>The process of statistical inquiry<\/b>\n<br>Week 8: Capstone case study.<\/p>",
     "estimatedClassWorkload": "6-8 hours\/week",
     "recommendedBackground": "Students should be comfortable with basic high-school-level mathematics.<br><br>",
-    "links": {
-
-    }
+    "links": {}
 }

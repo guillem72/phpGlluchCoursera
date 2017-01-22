@@ -9,7 +9,5 @@
     "courseSyllabus": "Week One: Infinity (Zeno's Paradox, Galileo's Paradox, very basic set theory, infinite sets).<br><br>Week Two: Truth (Tarski's theory of truth, recursive definitions, complete induction over sentences, Liar Paradox).<br><br>Week Three: Rational Belief (propositions as sets of possible worlds, rational all-or-nothing belief, rational degrees of belief, bets, Lottery Paradox).<br><br>Week Four: If-then (indicative vs subjunctive conditionals, conditionals in mathematics, conditional rational degrees of belief, beliefs in conditionals vs conditional beliefs).<br><br>Week Five: Confirmation (the underdetermination thesis, the Monty Hall Problem, Bayesian confirmation theory).<br><br>Week Six: Decision (decision making under risk, maximizing xpected utility, von Neumann Morgenstern axioms and representation theorem, Allais Paradox, Ellsberg Paradox).<br><br>Week Seven: Voting (Condorcet Paradox, Arrows Theorem, Condorcet Jury Theorem, Judgment Aggregation).<br><br>Week Eight: Quantum Logic and Probability (statistical correlations, the CHSH inequality, Boolean and non-Boolean algebras, violation of distributivity)",
     "estimatedClassWorkload": "2-3 hours\/week",
     "recommendedBackground": "We will not presuppose more than bits of high school mathematics.",
-    "links": {
-
-    }
+    "links": {}
 }

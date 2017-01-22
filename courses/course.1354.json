@@ -9,7 +9,5 @@
     "courseSyllabus": "Week One: Introduction - Why we program?<br>Week Two: Variables and Expressions<br>Week Three: Conditional code<br>Week Four: Functions<br>Week Five: Loops and Iteration<br>Week Six: Strings<br>Week Seven: Files<br>Week Eight: Lists<br>Week Nine: Dictionaries<br>Week Ten: Tuples<br>Optional Topic: Regular Expressions<br><br><br>",
     "estimatedClassWorkload": "2-4 hours\/week",
     "recommendedBackground": "There are no pre-requisites for this course. We avoid any advanced mathematics. You can do the entire class using a web browser. If you are going to do the programming exercises on your own computer (optional), you should know how to download and install software and be able to make folders and organize files on your computer. We will have detailed instructional videos for both Windows and Macintosh computers for all software installation and file management tasks for those who want to do software development on their computers. All required software for this class is free.",
-    "links": {
-
-    }
+    "links": {}
 }

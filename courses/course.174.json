@@ -9,7 +9,5 @@
     "courseSyllabus": "<p>The course has an open format. &nbsp;At the start of the course all of the assignments and lectures are available and each student is free to design their own plan of study and proceed at their own pace. &nbsp;The assessments in the course consist of five programming tasks where students experience the challenges of real world optimization problems such as selecting the most profitable locations of retail stores (facility location) and the design of package delivery routes (vehicle routing). &nbsp;The class community is an important aspect of this course and students are encouraged to collaborate and help each other in the completion of the assignments.<\/p>",
     "estimatedClassWorkload": "10-20 hours\/week",
     "recommendedBackground": "Good programming skills, knowledge of fundamental algorithms, and linear algebra.",
-    "links": {
-
-    }
+    "links": {}
 }

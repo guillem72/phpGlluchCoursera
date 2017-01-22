@@ -9,7 +9,5 @@
     "courseSyllabus": "Week 1: Topology; continuity and convergence of a sequence in a topological space.<br>Week 2: Metric and normed spaces; completeness<br>Week 3: Banach spaces; linear continuous functions; weak topology<br>Week 4: Hilbert spaces; The Riesz representation theorem<br>Week 5: The Lax-Milgram Lemma<br>Week 6: Properties of the Lp spaces<br>Week 7: Distributions and Sobolev Spaces<br>Week 8: Application: simulating a membrane<br><br>",
     "estimatedClassWorkload": "6-8 hours\/week",
     "recommendedBackground": "The course is mostly self-contained; however, you need to be familiar with\nfunctions, derivatives and integrals. You need to know what A ∩ B means and to know what a proof is. You should be fine if you have taken Calculus II and Algebra II. Students in Europe who have taken 120 ECTS in science should be fine as well.<br><br>Because this is an online class, having advanced and non-advanced students in a class will not be a problem; on the contrary we expect a wide range of interesting interactions. However, non-advanced students may have to work a bit more.<br>",
-    "links": {
-
-    }
+    "links": {}
 }

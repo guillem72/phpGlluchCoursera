@@ -9,7 +9,5 @@
     "courseSyllabus": "<ol><li>Statistical Software set up; Data, data sets and data documentation<\/li>\n<li> Data management<\/li>\n<li> Descriptive statistics and data visualization<\/li>\n<li>Comparing means (ANOVA), tests of categorical independence (Chi Square) and Correlation (r)<\/li>\n<li> Moderation<\/li>\n<li> Presenting statistical results\n<\/li><\/ol><blockquote><b>Activities include:<br><\/b>\nExploring data documentation<br>\nRunning a basic program<br>\nData management<br>\nGraphing<br>\nTesting and interpreting bivariate associations and post hoc paired comparisons<br>\nTesting and interpreting bivariate associations for population subgroups <br>\nWriting about results<br><\/blockquote><br>",
     "estimatedClassWorkload": "3-4 hours\/week",
     "recommendedBackground": "No background required. All are welcome.&nbsp;",
-    "links": {
-
-    }
+    "links": {}
 }

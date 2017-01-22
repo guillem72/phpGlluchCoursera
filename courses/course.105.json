@@ -9,7 +9,5 @@
     "courseSyllabus": "<ul>\n    <li>Introduction, Protocols and Layering<\/li>\n    <li>Physical and Link layers<\/li>\n    <li>Retransmissions, Multiple access, Switching<\/li>\n    <li>Network layer, Internetworking<\/li>\n    <li>Intra- and Inter-domain Routing<\/li>\n    <li>Transport layer, Reliability<\/li>\n    <li>Congestion Control<\/li>\n    <li>DNS, Web\/HTTP, Content Distribution<\/li>\n    <li>Quality of Service and Real-time Apps<\/li>\n    <li>Network Security<\/li>\n<\/ul>",
     "estimatedClassWorkload": "4–12 hours\/week",
     "recommendedBackground": "We assume a rudimentary understanding of probability (such as the likelihood\nof an event) and computer system organization (such as binary representations\nand arithmetic). You should be comfortable with simple calculations and\nmanipulations using scientific notation. We teach the course at the upper-undergraduate\nlevel. To do the optional, hands-on exercises you should be comfortable\nwith installing systems software and running command-line programs.",
-    "links": {
-
-    }
+    "links": {}
 }
